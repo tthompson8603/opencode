@@ -38,7 +38,7 @@
   <a href="README.gr.md">Ελληνικά</a> |
   <a href="README.vi.md">Tiếng Việt</a>
 </p>
-
+.
 [![OpenCode Terminal UI](packages/web/src/assets/lander/screenshot.png)](https://opencode.ai)
 
 ---
